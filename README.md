@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Здравствуйте!👋 Меня зовут Анастасия.
+## Здравствуйте!👋 Меня зовут Анастасия.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Full-stack+Web+Developer)](https://git.io/typing-svg)  
 <img src="https://user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="170"/>
 ### Мой стек технологий
